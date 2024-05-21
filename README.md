@@ -1,38 +1,5 @@
 # ITI-Covid_19-project
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IIAndrewII/ITI-Covid_19-project/HEAD?labpath=https%3A%2F%2Fgithub.com%2FIIAndrewII%2FITI-Covid_19-project%2Fblob%2Fmain%2Fcovid-19-analysis.ipynb)
-
-
-By:
- - Ahmed Essam
- - Andrew Samy
- - Hossam Asaad Elzoghpy
- - Sabreen Khamis Abedelrahman El Jilany
-<p align="center">
-		<img width="50%" src="https://user-images.githubusercontent.com/81884621/188256461-9b09a487-1a6a-4944-8928-84c87474088d.jpeg">
-	</a>
-
-## 🎯 Contributors
-
-<a href="https://github.com/IIAndrewII/ITI-Covid_19-project/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=IIAndrewII/ITI-Covid_19-project" />
-
-
-## 🍀 Sponsors
-
-This project exists thanks to:  **information technology institute(iti)** and **pluralsight**
-
-</p>
-
-<p align="center">
-		<img width="10%" src="https://user-images.githubusercontent.com/81884621/188256478-03c82499-b8dc-425c-a160-5ebab2cd2350.png">
-	</a>
-		<img width="20%" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/pluralsight-vector-logo-2022.png">
-	</a>
-
-</p>
-
-
 ## About the data
 
 COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
